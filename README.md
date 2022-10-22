@@ -21,3 +21,4 @@
 | 15 | Q# | v0.24.201332 | [Bug-Report15](https://github.com/microsoft/QuantumLibraries/issues/570) | First Found & Verified & Fixed | [Tianmin Hu](https://github.com/weucode) | PurifiedMixedStateRequirements函数的两个参数之一为非正数时产生溢出 | Implementation |
 | 16 | Q# | v0.24.201332 | [Bug-Report16](https://github.com/microsoft/QuantumLibraries/issues/571) | First Found & Verified & Fixed | [Tianmin Hu](https://github.com/weucode) | ApproximateFactorial 函数的参数范围与文档描述不符 | Specification |
 | 17 | Q# | v0.24.201332 | [Bug-Report17](https://github.com/microsoft/qsharp-runtime/issues/990) | Undetermined | [Xing Qu](https://github.com/QuXing9) | AssertQubitWithinTolerance操作代码实现效率低 | Implementation |
+| 18 | Q# | v0.25.228311 | [Bug-Report18](https://github.com/microsoft/QuantumLibraries/issues/624) | First Found & Verified | [Tianmin Hu](https://github.com/weucode) | 在Windows和Linux平台下Sin(PI()/4.0)值的小数最后一位数值不同 | Implementation |
